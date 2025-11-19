@@ -63,7 +63,7 @@ jupyter lab --ip=0.0.0.0 --no-browser
 
 Код сервиса рекомендаций находится в файле `recommendations_service.py`.
 
-1. Активируйте виртуальное окружение:
+Активируйте виртуальное окружение:
 ```
 source env_recsys_start/bin/activate
 ```
